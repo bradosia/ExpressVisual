@@ -18,6 +18,7 @@ asset archiving. This could possibly provide the basis for a 2D or 3D game engin
 | xiph/vorbis			| Sound										|
 
 Unfortunately, the FBX Software Developer Kit is not available for mingw, and has not been included. Assimp is its inferior replacement.
+minizip libzip miniz microtar
 
 # Table of Contents
 
