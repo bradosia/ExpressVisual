@@ -1,4 +1,4 @@
-# ExpressWeb
+# ExpressVisual
 A hand-picked visual toolkit for C++. This criteria for the selection was compatibility with MSVC, mingw, GCC, and clang and free use for commercial applications. This was meant to be a low-level selection for a openGL context, mesh loading, texture loading, sound playback, and 
 asset archiving. This could possibly provide the basis for a 2D or 3D game engine.
 
